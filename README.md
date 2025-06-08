@@ -6,6 +6,8 @@ I am a mathematician doing quantitative research and experimental/prototype soft
 
 [GitHub](https://github.com/johnmdusel)
 
+[LinkedIn](www.linkedin.com/in/john-dusel-6a137536a)
+
 ## Recent projects
 
 - [Dynamo](https://www.metsci.com/what-we-do/products-tools/dynamo/) (Metron, Inc.)
