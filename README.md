@@ -1,5 +1,3 @@
-I am a mathematician doing quantitative research and experimental/prototype software development.
-
 [Resume](JohnMDuselResume20250607.pdf)
 
 [ResearchGate](https://www.researchgate.net/profile/John-Dusel)
