@@ -1,4 +1,4 @@
-[Resume](JohnMDuselResume20250607.pdf)
+[Resume](JohnMDuselResume.pdf)
 
 [ResearchGate](https://www.researchgate.net/profile/John-Dusel)
 
