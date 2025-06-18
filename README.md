@@ -10,9 +10,11 @@
 
 - [Dynamo](https://www.metsci.com/what-we-do/products-tools/dynamo/) (Metron, Inc.)
 
-- Speed and Accuracy Instructions Invert Effects of Stimulus Class on 2AFC Recognition ([SCENIC-INS](https://github.com/johnmdusel/scenic-ins-analysis-public)) (Joint with M. B. Moreland)
+- Speed and Accuracy Instructions Invert Effects of Stimulus Class on 2AFC Recognition. Joint with M. B. Moreland. Under review for publication in [Memory and Cognition](https://www.psychonomic.org/page/MC).
 
-- [Matrix variate $t$-distribution for SciPy](https://github.com/scipy/scipy/pull/22925)
+  - [Data analysis repo](https://github.com/johnmdusel/scenic-ins-analysis-public)
+
+- [Matrix variate t-distribution for SciPy](https://github.com/scipy/scipy/pull/22925). Under review.
 
 - [AutoMATE](https://www.metsci.com/what-we-do/products-tools/automate/) (Metron, Inc.)
 
