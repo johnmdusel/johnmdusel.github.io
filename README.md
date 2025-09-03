@@ -8,13 +8,15 @@
 
 ## Recent projects
 
-- [Dynamo](https://www.metsci.com/what-we-do/products-tools/dynamo/) (Metron, Inc.)
-
-- Speed and Accuracy Instructions Invert Effects of Stimulus Class on 2AFC Recognition. Joint with M. B. Moreland. Under review for publication in [Memory and Cognition](https://www.psychonomic.org/page/MC).
+- Speed and Accuracy Instructions Invert Effects of Stimulus Class on 2AFC Recognition. Joint with M. B. Moreland.
 
   - [Data analysis repo](https://github.com/johnmdusel/scenic-ins-analysis-public)
 
-- [Matrix variate t-distribution for SciPy](https://github.com/scipy/scipy/pull/22925). Under review.
+- Instruction-Based Inferences in Eyewitness Identification. Joint with M. B. Moreland.
+
+- [Matrix variate t-distribution for SciPy](https://github.com/scipy/scipy/pull/22925).
+
+- [Dynamo](https://www.metsci.com/what-we-do/products-tools/dynamo/) (Metron, Inc.)
 
 - [AutoMATE](https://www.metsci.com/what-we-do/products-tools/automate/) (Metron, Inc.)
 
