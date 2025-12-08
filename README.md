@@ -1,10 +1,15 @@
-[Resume](JohnMDuselResume.pdf)
+## About
 
-[ResearchGate](https://www.researchgate.net/profile/John-Dusel)
+Applied mathematician working in the areas of modeling, data science, and scientific/technical
+computing with an emphasis on Bayesian methodology.
 
-[GitHub](https://github.com/johnmdusel)
+<!-- - [Resume](JohnMDuselResume.pdf) -->
 
-[LinkedIn](https://www.linkedin.com/in/john-dusel-6a137536a)
+- [GitHub](https://github.com/johnmdusel)
+
+- [ResearchGate](https://www.researchgate.net/profile/John-Dusel)
+
+<!-- - [LinkedIn](https://www.linkedin.com/in/john-dusel-6a137536a) -->
 
 ## Recent projects
 
