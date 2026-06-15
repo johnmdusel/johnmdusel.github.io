@@ -19,12 +19,14 @@ computing with an emphasis on Bayesian methodology.
 
 - Instruction-Based Inferences in Eyewitness Identification. Joint with M. B. Moreland.
 
+## Some older projects
+
 - [Matrix variate t-distribution for SciPy](https://github.com/scipy/scipy/pull/22925).
 
 - [Dynamo](https://www.metsci.com/what-we-do/products-tools/dynamo/) (Metron, Inc.)
 
 - [AutoMATE](https://www.metsci.com/what-we-do/products-tools/automate/) (Metron, Inc.)
 
-## Inspiring quote
+## Inspiring quotes
 
 >"The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down. The rain will erode the deeds of his life. But that man who sets himself the task of singling out the thread of order from the tapestry will by the decision alone have taken charge of the world and it is only by such taking charge that he will effect a way to dictate the terms of his own fate." *~Cormac McCarthy, Blood Meridian*
